@@ -1,19 +1,4 @@
-/* 	
- * ICSI 201 Introduction to Computer Science
- * Fall 2023
- * Lab section <Friday 11:40 A.M - 12:35 P.M>
- * <David Lau>
- * <Net ID (DL425467)>
- * <dlau2@albany.edu>
- * 
- * <Converts user's number inputs into valid dates including variables>
- * 
- * The program was tested with
- * <test data1>
- * <test data2>
- * <   ...    >
- * 
-*/
+// Converts user's number inputs into valid dates including variables
 
 import java.util.Scanner;
 
