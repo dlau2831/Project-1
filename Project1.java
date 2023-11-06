@@ -2,8 +2,7 @@
 
 import java.util.Scanner;
 
-public class P1_DL425467 {
-
+public class Project1 {
 
 	public static void main(String[] args) {
 
